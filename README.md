@@ -33,11 +33,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JOSGRAN/JOSGRAN/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JOSGRAN/JOSGRAN/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JOSGRAN/JOSGRAN/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOSGRAN&theme=tokyonight&area=true&hide_border=false" width="100%" alt="Gráfico de Actividad" />
 </div>
 
 ## 🌐 Redes sociales:
