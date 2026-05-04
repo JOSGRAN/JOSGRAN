@@ -40,15 +40,12 @@
   </picture>
 </div>
 
-### 🌐 Conecta Conmigo
-<div align="center">
-  <a href="https://www.linkedin.com/in/lincoln-josu%C3%A9-grandez-salas-143332395/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="mailto:soysalas279@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-</div>
+## 🌐 Redes sociales:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lincoljosuesito.grandezsalas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lincol_grandez/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lincoln-josu%C3%A9-grandez-salas-143332395/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soysalas279@gmail.com) 
+
+
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=JOSGRAN&color=blueviolet&style=flat-square&label=VISITAS" alt="vistas" />
