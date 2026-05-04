@@ -40,9 +40,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lincoljosuesito.grandezsalas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lincol_grandez/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lincoln-josu%C3%A9-grandez-salas-143332395/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soysalas279@gmail.com) 
 
-
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=JOSGRAN&color=blueviolet&style=flat-square&label=VISITAS" alt="vistas" />
 </p>
