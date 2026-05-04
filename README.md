@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 ¿Qué tal?</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=150&section=header&text=LINCOL%20GRANDEZ&fontSize=60&fontAlignY=40&animation=fadeIn&desc=INGENIERO%20FULL%20STACK%20%7C%20ARQUITECTO%20DE%20SAAS&descSize=18&descAlignY=65&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=150&section=header&text=SOY%20GRANDEZ&fontSize=60&fontAlignY=40&animation=fadeIn&desc=INGENIERO%20FULL%20STACK%20%7C%20ARQUITECTO%20DE%20SAAS&descSize=18&descAlignY=65&fontColor=ffffff" width="100%" />
 </p>
 
 ### 💻 Stack Tecnológico
