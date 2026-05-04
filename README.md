@@ -18,6 +18,6 @@ Soy un **Desarrollador Full Stack** enfocado en crear aplicaciones web robustas 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ### 📬 Cómo contactarme:
-* **LinkedIn:** [https://www.linkedin.com/in/lincoln-josu%C3%A9-grandez-salas-143332395/]
+* **LinkedIn:** https://www.linkedin.com/in/lincoln-josu%C3%A9-grandez-salas-143332395/
 * **Portafolio/Web:** [tu-sitio-web.com]
 * **Email:** [tu-correo@ejemplo.com]
