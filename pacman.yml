@@ -1,5 +1,31 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+name: Generate Pacman Game
+
+on:
+  # Ejecutar automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  
+  # Ejecutar cada vez que hagas un push a la rama principal
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Genera el juego de Pacman basado en tus contribuciones
+      - name: generate-pacman-graph
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: JOSGRAN
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
